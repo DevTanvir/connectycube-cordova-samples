@@ -1,0 +1,30 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.sample.videochat"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.sample.videochat"
+    },
+    "cordova-custom-config": {
+      "PACKAGE_NAME": "com.sample.videochat"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.sample.videochat"
+    },
+    "cordova-plugin-iosrtc": {
+      "PACKAGE_NAME": "com.sample.videochat"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.connectycube.videochat"
+    }
+  },
+  "dependent_plugins": {}
+}
