@@ -1,4 +1,4 @@
-# Chat and Video Chat code samples for Cordova, based on ConnectyCube platform
+# Chat and Video Chat code samples for Cordova for ConnectyCube platform
 
 This project contains chat and video chat code samples for Cordova environments and based on [ConnectyCube](https://connectycube.com/) communication platform.
 
@@ -6,7 +6,7 @@ The following code samples are available:
 
 - Chat code sample
 
-coming soon 
+coming soon
 
 - [Video Chat code sample](https://github.com/ConnectyCube/connectycube-cordova-samples/tree/master/sample-videochat-cordova)
 
