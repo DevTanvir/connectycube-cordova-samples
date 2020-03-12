@@ -34,4 +34,4 @@ The above command will automatically run your app on the Simulator. If you want 
 
 ## Can't build yourself?
 
-Got troubles with building Cordova code sample? Just create an issue at [Issues page](https://github.com/ConnectyCube/connectycube-ccordova-samples/issues) - we will create the sample for you. For FREE!
+Got troubles with building Cordova code sample? Just create an issue at [Issues page](https://github.com/ConnectyCube/connectycube-cordova-samples/issues) - we will create the sample for you. For FREE!
