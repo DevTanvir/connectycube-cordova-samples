@@ -4,13 +4,13 @@ This project contains chat and video chat code samples for Cordova environments 
 
 The following code samples are available:
 
-- Chat code sample
-
-coming soon
-
 - [Video Chat code sample](https://github.com/ConnectyCube/connectycube-cordova-samples/tree/master/sample-videochat-cordova)
 
 <kbd><img alt="Cordova video chat code sample, login" src="https://developers.connectycube.com/docs/_images/code_samples/cordova/cordova_codesample_video_login.PNG" width="200" /></kbd> <kbd><img alt="Cordova video chat code sample, select users" src="https://developers.connectycube.com/docs/_images/code_samples/cordova/cordova_codesample_video_select_users.PNG" width="200" /></kbd> <kbd><img alt="Cordova video chat code sample, video chat" src="https://developers.connectycube.com/docs/_images/code_samples/cordova/cordova_codesample_video_video.PNG" width="200" /></kbd>
+
+- Chat code sample
+
+coming soon
 
 ## Documentation
 
