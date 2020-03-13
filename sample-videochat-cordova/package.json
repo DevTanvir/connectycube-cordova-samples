@@ -35,8 +35,8 @@
       "cordova-plugin-device": {},
       "cordova-custom-config": {},
       "cordova-plugin-android-permissions": {},
-      "cordova-plugin-iosrtc": {},
-      "cordova-plugin-statusbar": {}
+      "cordova-plugin-statusbar": {},
+      "cordova-plugin-iosrtc": {}
     },
     "platforms": [
       "ios",

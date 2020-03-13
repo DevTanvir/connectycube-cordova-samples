@@ -31,18 +31,18 @@
     "is_top_level": true,
     "variables": {}
   },
-  "cordova-plugin-iosrtc": {
-    "source": {
-      "type": "registry",
-      "id": "cordova-plugin-iosrtc"
-    },
-    "is_top_level": true,
-    "variables": {}
-  },
   "cordova-plugin-statusbar": {
     "source": {
       "type": "registry",
       "id": "cordova-plugin-statusbar@2.4.3"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-iosrtc": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-iosrtc"
     },
     "is_top_level": true,
     "variables": {}

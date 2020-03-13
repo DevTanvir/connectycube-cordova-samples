@@ -30,7 +30,7 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
     "cordova-plugin-device": "2.0.3",
     "cordova-custom-config": "5.1.0",
     "cordova-plugin-android-permissions": "1.0.2",
-    "cordova-plugin-iosrtc": "6.0.9",
-    "cordova-plugin-statusbar": "2.4.3"
+    "cordova-plugin-statusbar": "2.4.3",
+    "cordova-plugin-iosrtc": "6.0.9"
   };
 });

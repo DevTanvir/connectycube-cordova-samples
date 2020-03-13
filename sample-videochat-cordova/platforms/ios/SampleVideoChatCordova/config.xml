@@ -22,12 +22,12 @@
     <feature name="Device">
         <param name="ios-package" value="CDVDevice" />
     </feature>
-    <feature name="iosrtcPlugin">
-        <param name="ios-package" value="iosrtcPlugin" />
-        <param name="onload" value="true" />
-    </feature>
     <feature name="StatusBar">
         <param name="ios-package" value="CDVStatusBar" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="iosrtcPlugin">
+        <param name="ios-package" value="iosrtcPlugin" />
         <param name="onload" value="true" />
     </feature>
     <name>SampleVideoChatCordova</name>
