@@ -23,7 +23,8 @@ ConnectyCube Video Chat API documentation - [https://developers.connectycube.com
 
 1. Clone the project;
 2. Install node_modules: `cd connectycube-cordova-samples/sample-videochat-cordova && npm install`;
-3. Run `cordova clean ios && cordova emulate ios` or `cordova clean android && cordova emulate android`.
+3. For iOS: re-install iOS RTS plugin: `cordova plugin remove cordova-plugin-iosrtc && cordova plugin add cordova-plugin-iosrtc  ` 
+4. Run `cordova clean ios && cordova emulate ios` or `cordova clean android && cordova emulate android`.
 
 ## Running on a device
 
